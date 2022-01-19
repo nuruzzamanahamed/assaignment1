@@ -1,0 +1,99 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   margin: 0;
+   padding: 0;
+}
+/*================ First Stage start ===============*/ 
+h1{
+    font-size: 40px;
+    line-height: 20px;
+    margin-left: 5px;
+    padding: 5px;
+}
+h2{
+    font-size: 30px;
+}
+#second-header{
+    text-align: center;
+}
+.mission{
+   padding-bottom:15px;
+}
+.mission-22{
+    border-left:4px solid red;
+}
+.header-text-color{
+    color:lightsalmon;
+}
+.button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 45px;
+    color: white;
+    border-radius: 5px;
+    font-weight:700;
+}
+.explore{
+    padding-top:15px;
+}
+section{
+    display: flex;
+    margin-left: 200px;
+}
+.half-width-left{
+    margin-top: 5%;
+    width: 50%;
+    
+}
+.half-width-right{
+    width: 50%;
+    
+}
+.half-width-right img{
+    width: 60%;
+    margin-left: 40px;
+    padding-left: 20px;   
+}
+/*================ First Stage End ===============*/
+
+/*================ second stage Start =============*/
+
+.mis-vis-goal-box{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    margin: 10px;
+}
+.mis-vis-goal-box img{
+    width: 40%;
+}
+.my-mi-vi-go-text{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.my-mi-vi-go-text p{
+    font-size: 15px;
+}
+.mission-box-color{
+    background-color:lavender;
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    margin: 10px;
+}
+.vission-box-color{
+    background-color:#FFEEEE;
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    margin: 10px;
+}
+.goal-box-color{
+    background-color:#FFF4D6;
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    margin: 10px;
+}
+/*================ second stage End =============*/
+/*================ Third stage Start =============*/
