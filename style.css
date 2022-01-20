@@ -36,7 +36,7 @@ h2{
 .explore{
     padding-top:15px;
 }
-section{
+.header-section{
     display: flex;
     margin-left: 200px;
 }
@@ -57,13 +57,11 @@ section{
 /*================ First Stage End ===============*/
 
 /*================ second stage Start =============*/
-
-.mis-vis-goal-box{
-    width: 300px;
-    height: 300px;
-    border-radius: 15px;
-    margin: 10px;
+.vission-mission-goal-section{
+    display:flex;
+    margin-left: 200px;
 }
+
 .mis-vis-goal-box img{
     width: 40%;
 }
@@ -81,12 +79,18 @@ section{
     border-radius: 15px;
     margin: 10px;
 }
+.mission-box-color img{
+    padding-top: 15px;
+}
 .vission-box-color{
     background-color:#FFEEEE;
     width: 300px;
     height: 300px;
     border-radius: 15px;
     margin: 10px;
+}
+.vission-box-color img{
+    padding-top: 15px;
 }
 .goal-box-color{
     background-color:#FFF4D6;
@@ -95,5 +99,127 @@ section{
     border-radius: 15px;
     margin: 10px;
 }
+.goal-box-color img{
+    padding-top: 15px;
+}
 /*================ second stage End =============*/
 /*================ Third stage Start =============*/
+.develop-without-limit-section{
+    margin-left: 200px;
+    display:flex;
+    margin-top: 40px;
+}
+.without-limit-left{
+    width: 35%;
+}
+.without-limit-left img{
+    width: 80%;
+}
+
+.without-limit-right{
+    width: 65%;
+}
+.develop-without-limits{
+    width:75%;
+}
+.develop-without-limits h3{
+    font-size: 30px;
+    line-height: 10px;
+}
+.develop-without-limits p{
+    margin-bottom: 35px;
+}
+/*================ Third stage Finish =============*/
+/*================ Fourth stage Start =============*/
+.Know-global-community-section{
+    margin-left: 200px;
+    display:flex;
+    margin-top: 40px;
+}
+
+.global-community-left{
+    width: 45%;
+}
+.global-community-left h3{
+    font-size: 30px;
+    line-height: 10px;
+}
+.global-community-left p{
+    margin-bottom: 35px;
+    text-align: justify;
+}
+.global-community-right{
+    width: 50%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 200px;
+  
+}
+.global-community-right img{
+    width: 50%;
+    margin-left: 25%;
+}
+/*================ Fourth Stage End =============*/
+/*================ Fifth Stage Start =============*/
+#corona-header{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.corona-section{
+    display:flex;
+    margin-left: 200px;
+    
+}
+.corona-section-left{
+    width: 30%;
+}
+.corona-section-left img{
+    width: 65%;
+    margin-left: 15%;
+    margin-bottom: 50px;
+}
+.corona-section-right{
+    width:60%;
+    text-align: justify;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.corona-section-right h1{
+    font-size: 40px;
+    line-height: 10px;
+    
+
+}
+.corona-section-right p{
+    width: 580px;
+    margin-bottom: 40px;
+  
+}
+
+
+
+
+/*=============== Fifth Stage End ==================*/
+/*=============== Footer Stage Start ===============*/
+.footer{
+    width: 100%;
+    height:170px;
+    background-color: black;
+    color: white;
+}
+.footer-text{
+    text-align: center;
+    padding-top: 25px;
+    margin-bottom: 20px;
+    font-style:oblique ;
+}
+.footer-text p{
+    font-style: normal;
+}
+.style-2022{
+    color:#FF5959;
+}
+
+/*=============== Footer Stage End =================*/ 
